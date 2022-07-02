@@ -69,4 +69,4 @@ I am a graduate student at University of Toronto specialising in Computer Vision
 
 I am also a part of Nightingale AI where I work as Computer Vision Engineer where I am working on creating an API to help patients recover from knee joint injuries.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
