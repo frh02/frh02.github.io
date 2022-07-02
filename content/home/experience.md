@@ -37,14 +37,20 @@ experience:
         * Created a website to host the computer vision model to have inference on images and videos.
         * Managed the website tra c load and implemented an API for live camera inference.
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Computer Vision Developer
+    company: JACOBB AI
     company_url: ''
     company_logo: org-x
     location: California
     date_start: '2016-01-01'
     date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: |2-
+        Responsibilities include:
+        
+        *  Visualised a 3D scene in GTLF format and carried out data transformation.
+        *  Deployed a pre trained object detection model for 3D mesh. 
+        *  Assisted in the pipeline development while suggesting the best way to carry out mesh completion in a 3D scene.
+        *  Data Manipulation for converting 3D objects into different formats like .obj, .glp format.
 
 design:
   columns: '2'
