@@ -22,19 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Computer Vision Engineer
+    company: Nightingale AI
+    company_url: 'https://hatchery.engineering.utoronto.ca/team/nightingaleai/'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Toronto
+    date_start: '2022-05-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Working as Computer Vision Engineer under the supervision of Dr. Charlene Chu. 
+        * Designed a pose estimation for detecting recovery rate in patients.
+        * Created a website to host the computer vision model to have inference on images and videos.
+        * Managed the website tra c load and implemented an API for live camera inference.
 
   - title: Professor of Semiconductor Physics
     company: University X
