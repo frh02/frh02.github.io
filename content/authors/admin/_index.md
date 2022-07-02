@@ -68,8 +68,8 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a graduate student at University of Toronto specialising in Computer Vision and Machine Learning. Apart from being a full time student I am a Computer Vision developer at JACOBB AI building models for segmentation and detection in 3D scenes. My interests are inclined towards Machine Vision and Augmented Reality and Virtual Reality. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am also a part of Nightingale AI where I work as Computer Vision Engineer where I am working on creating an API to help patients recover from knee joint injuries.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
